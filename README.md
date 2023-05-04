@@ -3,7 +3,7 @@
 
 **Rafaelamocelin/Rafaelamocelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :Rfaa
 
 Meu nome é Rafaela Mocelin
 
